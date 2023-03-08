@@ -1,0 +1,22 @@
+{
+  "name": "ejsbootstrap",
+  "version": "1.0.0",
+  "description": "Class exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azarateo/ejsBootstrap.git"
+  },
+  "author": "Edwin Zarate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azarateo/ejsBootstrap/issues"
+  },
+  "homepage": "https://github.com/azarateo/ejsBootstrap#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
